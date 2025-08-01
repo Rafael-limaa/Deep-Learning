@@ -1,8 +1,7 @@
 # Integrantes da Equipe
-Danilo Melo
-Kássio Fonseca
-Romulo Galdino
-Georges B
+Paulo Rafael
+Paulo Passos
+Henrique Frazão
 
 # 🍷 Classificação da Qualidade de Vinhos com Redes Neurais MLP
 
