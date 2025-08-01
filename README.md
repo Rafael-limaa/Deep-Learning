@@ -1,6 +1,6 @@
 # Integrantes da Equipe
-Paulo Rafael
-Paulo Passos
+Paulo Rafael,
+Paulo Passos,
 Henrique Frazão
 
 # 🍷 Classificação da Qualidade de Vinhos com Redes Neurais MLP
