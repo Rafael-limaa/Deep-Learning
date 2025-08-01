@@ -1,4 +1,8 @@
-# Equipe: Paulo Rafael, Paulo Passos, Henrinque Frazão
+# Integrantes da Equipe
+Danilo Melo
+Kássio Fonseca
+Romulo Galdino
+Georges B
 
 # 🍷 Classificação da Qualidade de Vinhos com Redes Neurais MLP
 
