@@ -77,5 +77,4 @@ Todos os modelos utilizam:
 
 ---
 
-## 📁 Estrutura do Projeto
 
