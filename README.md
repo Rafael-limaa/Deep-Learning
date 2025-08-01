@@ -67,7 +67,6 @@ Todos os modelos utilizam:
 - **Avaliação com classificação multiclasse**:
   - Acurácia
   - Relatório de classificação (precision, recall, f1-score)
-  - Matriz de confusão
 
 ---
 
