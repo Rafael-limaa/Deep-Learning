@@ -14,3 +14,9 @@ Código passo a passo com explicações em Markdown.
 Seções: EDA, pré-processamento, definição de modelos, treinamento, gráficos comparativos, avaliação.
 
 Visualizações inline (seaborn + matplotlib).
+
+
+src/preprocess.py
+Funções para ler dados, remover NA e colunas, normalizar, codificar classes.
+
+Função para plotar gráficos: distribuição, correlação, boxplot.
