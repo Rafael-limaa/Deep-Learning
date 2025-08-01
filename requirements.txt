@@ -1,1 +1,6 @@
-
+Python 3.10+
+TensorFlow
+Scikit-learn
+Pandas
+Matplotlib 
+Seaborn
