@@ -1,3 +1,5 @@
+# Equipe: Paulo Rafael, Paulo Passos, Henrinque Frazão
+
 # 🍷 Classificação da Qualidade de Vinhos com Redes Neurais MLP
 
 Este projeto aplica técnicas de Deep Learning com **Redes Neurais Multicamadas (MLP)** para prever a qualidade de vinhos com base em atributos fisico-químicos. Utilizamos o [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset) disponível no Kaggle.
