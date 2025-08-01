@@ -1,6 +1,4 @@
-📝 O que incluir em cada arquivo
-README.md
-Descrição do projeto: classificação da qualidade do vinho com MLP.
+📝 Descrição do projeto: classificação da qualidade do vinho com MLP.
 
 Motivação: objetivo de explorar variação de hiperparâmetros.
 
