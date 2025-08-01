@@ -71,10 +71,7 @@ Todos os modelos utilizam:
 
 ## 📌 Resultados Obtidos
 
-- O modelo com duas camadas ocultas (32 → 16 neurônios) + EarlyStopping obteve o melhor desempenho, equilibrando acurácia e generalização.
-- A maioria dos erros ocorre entre classes próximas (ex: qualidade 5 confundida com 6).
-- Adições como batch size e parada antecipada impactaram positivamente na estabilidade do modelo.
+- Apesar de todos os modelos terem acurácias próximas, o Modelo 1 foi o mais simples e eficaz, enquanto o Modelo 4 foi o mais eficiente em termos de tempo de treinamento, mostrando que estratégias como early stopping ajudam a evitar overfitting com custo computacional menor.
 
----
 
 
